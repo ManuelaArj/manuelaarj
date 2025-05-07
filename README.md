@@ -3,6 +3,7 @@
 **`Desenvolvedora Front-End`**
 
 Olá ;) eu me chamo Manuela Araujo e tenho 24 anos. Concluí a faculdade de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul em dezembro de 2024.
+Atualmente estudo Pós graduação em Desenvolvimento Full-Stack pela faculdade Descomplica. 
 
 Sou apaixonada por tecnologia e acredito que o aprendizado contínuo é essencial para evoluir na área. 
 
